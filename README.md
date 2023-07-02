@@ -12,7 +12,8 @@ To get the most out of this repository, we recommend:
 
 1. **Read the Medium articles**: Each set of files in this repository corresponds to a specific article from the series on Medium. Reading the article first will give you the necessary context and theoretical understanding. Here's what we have so far:
 
-- [Harnessing Generative AI to Tackle Conversational AI Challenges](https://www.medium.com/fakearticle1)
+- [Harnessing Generative AI to Tackle Conversational AI Challenges](https://medium.com/p/1bf559b99a4a)
+- [Conversational AI: A Deep Dive into ChatGPT Functions for Enhanced UX](https://medium.com/p/c41dfcfd9e69)
 
 2. **Explore the supporting files**: Dig into the code snippets, data samples, and other supporting files here to get a more practical understanding of the topics discussed in the articles.
 
