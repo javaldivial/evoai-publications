@@ -14,6 +14,7 @@ To get the most out of this repository, we recommend:
 
 - [Harnessing Generative AI to Tackle Conversational AI Challenges](https://medium.com/p/1bf559b99a4a)
 - [Conversational AI: A Deep Dive into ChatGPT Functions for Enhanced UX](https://medium.com/p/c41dfcfd9e69)
+- [Supercharge Cognigy.AI: Chat with your Company Knowledge Base](https://medium.com/@javaldivial/supercharge-cognigy-ai-chat-with-your-company-knowledge-base-61524c699e9b)
 
 2. **Explore the supporting files**: Dig into the code snippets, data samples, and other supporting files here to get a more practical understanding of the topics discussed in the articles.
 
